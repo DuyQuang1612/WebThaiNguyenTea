@@ -1,0 +1,329 @@
+E:\CosmeticsStore\CosmeticsStore\bin\CosmeticsStore.dll.config
+E:\CosmeticsStore\CosmeticsStore\bin\CosmeticsStore.dll
+E:\CosmeticsStore\CosmeticsStore\bin\CosmeticsStore.pdb
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\csc.exe
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\csc.exe.config
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\csc.rsp
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\csi.exe
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\csi.rsp
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\System.AppContext.dll
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\System.Collections.Immutable.dll
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\System.IO.FileSystem.dll
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\System.Reflection.Metadata.dll
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\vbc.exe
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\vbc.exe.config
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\vbc.rsp
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\VBCSCompiler.exe
+E:\CosmeticsStore\CosmeticsStore\bin\roslyn\VBCSCompiler.exe.config
+E:\CosmeticsStore\CosmeticsStore\bin\Antlr3.Runtime.dll
+E:\CosmeticsStore\CosmeticsStore\bin\CKFinder.dll
+E:\CosmeticsStore\CosmeticsStore\bin\EntityFramework.dll
+E:\CosmeticsStore\CosmeticsStore\bin\EntityFramework.SqlServer.dll
+E:\CosmeticsStore\CosmeticsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CosmeticsStore\CosmeticsStore\bin\Microsoft.Web.Infrastructure.dll
+E:\CosmeticsStore\CosmeticsStore\bin\Newtonsoft.Json.dll
+E:\CosmeticsStore\CosmeticsStore\bin\PagedList.dll
+E:\CosmeticsStore\CosmeticsStore\bin\PagedList.Mvc.dll
+E:\CosmeticsStore\CosmeticsStore\bin\System.Web.Helpers.dll
+E:\CosmeticsStore\CosmeticsStore\bin\System.Web.Mvc.dll
+E:\CosmeticsStore\CosmeticsStore\bin\System.Web.Optimization.dll
+E:\CosmeticsStore\CosmeticsStore\bin\System.Web.Razor.dll
+E:\CosmeticsStore\CosmeticsStore\bin\System.Web.WebPages.Deployment.dll
+E:\CosmeticsStore\CosmeticsStore\bin\System.Web.WebPages.dll
+E:\CosmeticsStore\CosmeticsStore\bin\System.Web.WebPages.Razor.dll
+E:\CosmeticsStore\CosmeticsStore\bin\WebGrease.dll
+E:\CosmeticsStore\CosmeticsStore\bin\CKFinder.pdb
+E:\CosmeticsStore\CosmeticsStore\bin\EntityFramework.xml
+E:\CosmeticsStore\CosmeticsStore\bin\EntityFramework.SqlServer.xml
+E:\CosmeticsStore\CosmeticsStore\bin\PagedList.xml
+E:\CosmeticsStore\CosmeticsStore\bin\PagedList.Mvc.xml
+E:\CosmeticsStore\CosmeticsStore\bin\System.Web.Helpers.xml
+E:\CosmeticsStore\CosmeticsStore\bin\System.Web.Mvc.xml
+E:\CosmeticsStore\CosmeticsStore\bin\System.Web.Optimization.xml
+E:\CosmeticsStore\CosmeticsStore\bin\System.Web.Razor.xml
+E:\CosmeticsStore\CosmeticsStore\bin\System.Web.WebPages.xml
+E:\CosmeticsStore\CosmeticsStore\bin\System.Web.WebPages.Deployment.xml
+E:\CosmeticsStore\CosmeticsStore\bin\System.Web.WebPages.Razor.xml
+E:\CosmeticsStore\CosmeticsStore\bin\Newtonsoft.Json.xml
+E:\CosmeticsStore\CosmeticsStore\bin\Antlr3.Runtime.pdb
+E:\CosmeticsStore\CosmeticsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CosmeticsStore\CosmeticsStore\obj\Debug\CosmeticsStore.csproj.CoreCompileInputs.cache
+E:\CosmeticsStore\CosmeticsStore\obj\Debug\CosmeticsStore.csproj.CopyComplete
+E:\CosmeticsStore\CosmeticsStore\obj\Debug\CosmeticsStore.dll
+E:\CosmeticsStore\CosmeticsStore\obj\Debug\CosmeticsStore.pdb
+E:\CosmeticsStore\CosmeticsStore\obj\Debug\CosmeticsStore.csprojAssemblyReference.cache
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\CosmeticsStore.dll.config
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\CosmeticsStore.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\CosmeticsStore.pdb
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\csc.exe
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\csc.exe.config
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\csc.rsp
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\csi.exe
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\csi.rsp
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\System.AppContext.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\System.Collections.Immutable.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\System.IO.FileSystem.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\System.Reflection.Metadata.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\vbc.exe
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\vbc.exe.config
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\vbc.rsp
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\VBCSCompiler.exe
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\roslyn\VBCSCompiler.exe.config
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\Antlr3.Runtime.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\CKFinder.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\EntityFramework.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\EntityFramework.SqlServer.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\Microsoft.Web.Infrastructure.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\Newtonsoft.Json.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\PagedList.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\PagedList.Mvc.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\System.Web.Helpers.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\System.Web.Mvc.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\System.Web.Optimization.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\System.Web.Razor.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\System.Web.WebPages.Deployment.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\System.Web.WebPages.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\System.Web.WebPages.Razor.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\WebGrease.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\CKFinder.pdb
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\EntityFramework.xml
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\EntityFramework.SqlServer.xml
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\PagedList.xml
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\PagedList.Mvc.xml
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\System.Web.Helpers.xml
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\System.Web.Mvc.xml
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\System.Web.Optimization.xml
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\System.Web.Razor.xml
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\System.Web.WebPages.xml
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\System.Web.WebPages.Deployment.xml
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\System.Web.WebPages.Razor.xml
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\Newtonsoft.Json.xml
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\Antlr3.Runtime.pdb
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\obj\Debug\CosmeticsStore.csproj.CoreCompileInputs.cache
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\obj\Debug\CosmeticsStore.csproj.CopyComplete
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\obj\Debug\CosmeticsStore.dll
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\obj\Debug\CosmeticsStore.pdb
+E:\Workpase\Project ASP\CosmeticsStore\CosmeticsStore\obj\Debug\CosmeticsStore.csprojAssemblyReference.cache
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\CosmeticsStore.dll.config
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\CosmeticsStore.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\CosmeticsStore.pdb
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\csc.exe
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\csc.exe.config
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\csc.rsp
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\csi.exe
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\csi.rsp
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\System.AppContext.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\System.Collections.Immutable.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\System.IO.FileSystem.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\System.Reflection.Metadata.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\vbc.exe
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\vbc.exe.config
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\vbc.rsp
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\VBCSCompiler.exe
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\VBCSCompiler.exe.config
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\Antlr3.Runtime.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\CKFinder.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\EntityFramework.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\EntityFramework.SqlServer.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\Microsoft.Web.Infrastructure.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\Newtonsoft.Json.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\PagedList.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\PagedList.Mvc.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Helpers.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Mvc.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Optimization.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Razor.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.WebPages.Deployment.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.WebPages.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.WebPages.Razor.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\WebGrease.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\CKFinder.pdb
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\EntityFramework.xml
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\EntityFramework.SqlServer.xml
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\PagedList.xml
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\PagedList.Mvc.xml
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Helpers.xml
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Mvc.xml
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Optimization.xml
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Razor.xml
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.WebPages.xml
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.WebPages.Deployment.xml
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.WebPages.Razor.xml
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\Newtonsoft.Json.xml
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\Antlr3.Runtime.pdb
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\obj\Debug\CosmeticsStore.csproj.CoreCompileInputs.cache
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\obj\Debug\CosmeticsStore.csproj.CopyComplete
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\obj\Debug\CosmeticsStore.dll
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\obj\Debug\CosmeticsStore.pdb
+E:\Workpase\Project ASP\Website-Selling-Cosmetics\CosmeticsStore\obj\Debug\CosmeticsStore.csprojAssemblyReference.cache
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\CosmeticsStore.dll.config
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\CosmeticsStore.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\CosmeticsStore.pdb
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\csc.exe
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\csc.exe.config
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\csc.rsp
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\csi.exe
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\csi.rsp
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\System.AppContext.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\System.Collections.Immutable.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\System.IO.FileSystem.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\vbc.exe
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\vbc.exe.config
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\vbc.rsp
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\VBCSCompiler.exe
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\roslyn\VBCSCompiler.exe.config
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\Antlr3.Runtime.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\CKFinder.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\EntityFramework.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\EntityFramework.SqlServer.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\Newtonsoft.Json.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\PagedList.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\PagedList.Mvc.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Helpers.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Mvc.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Optimization.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Razor.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.WebPages.Deployment.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.WebPages.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.WebPages.Razor.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\WebGrease.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\CKFinder.pdb
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\EntityFramework.xml
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\EntityFramework.SqlServer.xml
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\PagedList.xml
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\PagedList.Mvc.xml
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Helpers.xml
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Mvc.xml
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Optimization.xml
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.Razor.xml
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.WebPages.xml
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.WebPages.Deployment.xml
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\System.Web.WebPages.Razor.xml
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\Newtonsoft.Json.xml
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\Antlr3.Runtime.pdb
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\obj\Debug\CosmeticsStore.csproj.CoreCompileInputs.cache
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\obj\Debug\CosmeticsStore.csproj.CopyComplete
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\obj\Debug\CosmeticsStore.dll
+D:\Workpase\Project ASP.NET MCV5\Website-Selling-Cosmetics\CosmeticsStore\obj\Debug\CosmeticsStore.pdb
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\CosmeticsStore.dll.config
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\CosmeticsStore.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\CosmeticsStore.pdb
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\csc.exe
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\csc.exe.config
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\csc.rsp
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\csi.exe
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\csi.rsp
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\System.AppContext.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\vbc.exe
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\vbc.exe.config
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\vbc.rsp
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\Antlr3.Runtime.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\CKFinder.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\EntityFramework.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\Newtonsoft.Json.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\PagedList.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\PagedList.Mvc.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\System.Web.Helpers.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\System.Web.Mvc.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\System.Web.Optimization.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\System.Web.Razor.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\System.Web.WebPages.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\WebGrease.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\CKFinder.pdb
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\EntityFramework.xml
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\PagedList.xml
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\PagedList.Mvc.xml
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\System.Web.Helpers.xml
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\System.Web.Mvc.xml
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\System.Web.Optimization.xml
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\System.Web.Razor.xml
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\System.Web.WebPages.xml
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\Newtonsoft.Json.xml
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\Antlr3.Runtime.pdb
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\obj\Debug\CosmeticsStore.csproj.CoreCompileInputs.cache
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\obj\Debug\CosmeticsStore.csproj.CopyComplete
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\obj\Debug\CosmeticsStore.dll
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\obj\Debug\CosmeticsStore.pdb
+C:\Users\user\Videos\Website-Sell-Cosmetics-main\CosmeticsStore\obj\Debug\CosmeticsStore.csproj.AssemblyReference.cache
